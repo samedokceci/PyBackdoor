@@ -31,7 +31,7 @@ This project is still in the coding progress. There may be bugs and instabilitie
   
 This project has been tested using Python 3.11.2. Other versions may not work as expected
   
-1. Download this repository. `git clone https://github.com/Y4hL/PyDoor`  
+1. Download this repository. `git clone https://github.com/samedokceci/PyBackdoor.git`  
 2. Install the required libraries `pip3 install -r requirements.txt`  
   
 
